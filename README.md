@@ -207,7 +207,7 @@ This guide covered the basics: setup, creating a simple building, adding materia
 
 Plus, the full guide includes interactive features like progress tracking, code copying, and a step-by-step checklist companion. Everything is written for Sollumz 2.8.0 specifically, so you're not dealing with outdated workflows.
 
-**[Get the Complete Sollumz 2.8.0 Guide →](https://alexjamesdean.gumroad.com/l/sollumz-guide)**
+**[Get the Complete Sollumz 2.8.0 Guide →](https://ajthedev.gumroad.com/l/ComprehensiveFiveMModelling)**
 
 The complete guide is 69KB of comprehensive, tested content covering everything from basic buildings to complex MLOs and vehicles. It's the resource I wish I had when I started creating FiveM assets.
 
